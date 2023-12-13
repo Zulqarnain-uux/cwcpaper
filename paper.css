@@ -1,5 +1,5 @@
    @font-face {
-    font-family: "qalam" ;
+    font-family: "akram" ;
     src: url(fonts/alqalam\ AlQalam\ Amjad\ Alvi.ttf);
    } 
    @font-face {
@@ -10,10 +10,7 @@
     font-family:"sameer" ;
     src: url(fonts/AA\ Sameer\ Almas\ Regular.ttf);
    }
-   @font-face {
-      font-family: "qalamregular";
-      src: url(fonts/Al\ Qalam\ Regular.ttf);
-   }
+  
     .Div{ max-width:1000px; margin:auto;}
 
     #header { width: 91.5%; background:rgb(194, 194, 194); padding:40px; color:#050505; font-weight:bolder; text-align: center;direction: rtl;font-size: 4em ;font-family:"qalam"; border: solid rgb(114, 102, 102);}
